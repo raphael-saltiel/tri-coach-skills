@@ -1,0 +1,181 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tri-coach-skills//export_ics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Entraînements
+BEGIN:VEVENT
+UID:2026-S49-0@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+TRANSP:TRANSPARENT
+SUMMARY:😴 Repos complet
+DESCRIPTION:DISCIPLINE: repos\n---\nSemaine 3\, charge\, 5 h 20 prévues. D
+ ernière semaine du premier bloc avant la décharge. Séances clés : les 
+ blocs au seuil de mardi et le premier enchaînement de samedi.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-1@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261201T184500
+DTEND:20261201T192500
+SUMMARY:🏃 Seuil 3x6 min à 5'15/km
+DESCRIPTION:DISCIPLINE: course\nDISTANCE: 6\,5 km\n- 12 min d'échauffement
+  sous 150 bpm\n- 3x6 min à 5'15/km\, 2 min de trot entre\n- 6 min de reto
+ ur au calme en trottinant\n---\nCette séance élève l'allure que tu peux
+  tenir longtemps. Sur des blocs de 6 minutes\, l'allure est la consigne et
+  la fréquence cardiaque un simple témoin : elle monte en retard. Le piè
+ ge est de partir plus vite que 5'15 sur le premier bloc. C'est réussi si 
+ le troisième bloc est aussi rapide que le premier.\nRepli : si la piste e
+ st fermée\, même séance sur la route plate du canal\, au ressenti 7 sur
+  10.
+LOCATION:Piste du stade\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Seuil 3x6 min à 5'15/km
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Seuil 3x6 min à 5'15/km
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-2@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261202T191500
+DTEND:20261202T194500
+SUMMARY:🏊 Natation 5x100 m souples
+DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 900 m\n- 200 m d'échauffement 
+ souple\n- 5x100 m à 2'45\, 20 s de repos\n- 24 cycles par 25 m au plus su
+ r les 100 m\n- 200 m de retour au calme en nage ample\n---\nTu ne nages qu
+ e 400 m d'une traite : cette séance allonge la distance utile sans forcer
+ . Le piège est de nager les 100 m plus vite que 2'45\, ce qui fait monter
+  le nombre de cycles. C'est réussi si le cinquième 100 m a le même temp
+ s et le même nombre de cycles que le premier.\nRepli : si le bassin est f
+ ermé\, cette séance prend le créneau de vendredi midi et la séance tec
+ hnique saute.
+LOCATION:Piscine municipale de Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation 5x100 m souples
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation 5x100 m souples
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-3@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261203T183000
+DTEND:20261203T191000
+SUMMARY:🚴 Home-trainer 2x8 min à 175 W
+DESCRIPTION:DISCIPLINE: vélo\n- 12 min d'échauffement de 100 à 145 W\n- 
+ 2x8 min à 175 W\, cadence 85 à 95\n- 4 min à 100 W entre les deux blocs
+ \n- 8 min de retour au calme sous 110 W\n---\nDeux blocs en haut de la zon
+ e tempo pour apprendre à tenir un effort soutenu assis\, sans à-coups. L
+ e piège en mode ERG est de laisser tomber la cadence : sous 80 tours\, re
+ lance les jambes avant que la résistance ne te bloque. C'est réussi si l
+ a cadence du second bloc est celle du premier.\nRepli : si le home-trainer
+  n'est pas disponible\, 40 min de course en aisance sous 150 bpm.
+LOCATION:Domicile\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Home-trainer 2x8 min à 175 W
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Home-trainer 2x8 min à 175 W
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-4@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261204T121500
+DTEND:20261204T124000
+SUMMARY:🏊 Natation technique 700 m
+DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 700 m\n- 200 m d'échauffement 
+ souple\n- 6x50 m en comptant les cycles\, 20 s de repos\n- 200 m continus 
+ à 24 cycles par 25 m\n- 100 m de retour au calme\n---\nUne séance courte
+  pour la glisse\, à la veille de la sortie longue : elle ne charge pas le
+ s jambes. Le piège est d'en faire une séance de séries. C'est réussi s
+ i tu sors de l'eau plus fraîche qu'en y entrant et si les 200 m continus 
+ passent sans arrêt au mur.\nRepli : si le bassin est fermé\, repos. Cett
+ e séance ne se rattrape pas.
+LOCATION:Piscine municipale de Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation technique 700 m
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation technique 700 m
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-5@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261205T090000
+DTEND:20261205T111000
+SUMMARY:🚴 Sortie longue 2 h + 10 min à pied
+DESCRIPTION:DISCIPLINE: vélo\nDISTANCE: 45 km à vélo\, 1\,5 km à pied\n
+ - 10 min de mise en route très souple\n- 100 min sous 142 bpm\, environ 3
+ 8 km\n- 10 min en moulinant pour finir\n- 10 min de course\, 1re minute en
+  marchant vite\n---\nLa sortie longue construit l'endurance du vélo\, et 
+ les 10 minutes à pied t'apprennent à courir avec des jambes de cycliste.
+  Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardiaqu
+ e qui pilote\, avec un plafond à 142 et pas de plancher. Le piège est de
+  partir trop vite à pied : première minute en marchant vite\, puis cinq 
+ minutes volontairement lentes quelle que soit la sensation. C'est réussi 
+ si tu finis en ayant pu parler tout le long.\nRepli : si la route est impr
+ aticable\, 1 h 45 de home-trainer entre 110 et 146 W\, puis les 10 min de 
+ course.
+LOCATION:Départ du domicile\, boucle des étangs
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Sortie longue 2 h + 10 min à pied
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Sortie longue 2 h + 10 min à pied
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-6@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261206T093000
+DTEND:20261206T103000
+SUMMARY:🏃 Longue course 1 h sous 150 bpm
+DESCRIPTION:DISCIPLINE: course\nDISTANCE: 9 km\n- 5 min de marche rapide pu
+ is de trot\n- 50 min sous 150 bpm\, environ 7\,5 km\n- 5 min de retour au 
+ calme en marchant\n---\nL'endurance à pied se construit lentement\, les t
+ endons suivent moins vite que le souffle. Le plafond est 150 bpm et pas pl
+ us vite que 5'59 au km : aller plus lentement n'est jamais une faute. Le p
+ iège est d'accélérer sur la fin parce que tout va bien. C'est réussi s
+ i les dix dernières minutes sont à la même fréquence cardiaque que les
+  dix premières.\nRepli : par verglas ou forte pluie\, même durée sur ta
+ pis ou séance décalée à l'après-midi. Si ni l'un ni l'autre\, 45 min 
+ suffisent.
+LOCATION:Chemin du canal\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Longue course 1 h sous 150 bpm
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Longue course 1 h sous 150 bpm
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

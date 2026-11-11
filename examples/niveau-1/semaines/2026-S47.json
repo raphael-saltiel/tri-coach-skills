@@ -1,0 +1,125 @@
+{
+  "calendar_name": "Entraînements",
+  "default_reminders_min": [1440, 45],
+  "sessions": [
+    {
+      "id": "2026-S47-0",
+      "date": "2026-11-16",
+      "discipline": "rest",
+      "discipline_label": "repos",
+      "title": "Repos complet",
+      "why": "Semaine 1, charge, 4 h 30 prévues : exactement ce que tu faisais déjà, pas plus. Tu n'as pas d'appareil de mesure : tout se pilote au ressenti sur 10 et au test de la parole. Deux repères à prendre cette semaine : natation mercredi, vélo samedi. Le repère de course vient la semaine prochaine."
+    },
+    {
+      "id": "2026-S47-1",
+      "date": "2026-11-17",
+      "time": "18:45",
+      "duration_min": 35,
+      "discipline": "run",
+      "discipline_label": "course",
+      "title": "Footing 35 min en aisance",
+      "location": "Tour du parc éclairé, Brumeval",
+      "distance": "environ 5 km",
+      "lines": [
+        "5 min de marche rapide puis de trot",
+        "22 min à 4 sur 10, en phrases complètes",
+        "4 lignes droites de 20 s, retour au pas",
+        "4 min de retour au calme en marchant"
+      ],
+      "why": "L'endurance se construit à une allure où tu peux parler. Les lignes droites réveillent la foulée sans fatiguer : accélération progressive, jamais un sprint. Le piège est de courir à l'allure qui fait plaisir plutôt qu'à celle qui permet de parler. C'est réussi si tu aurais pu tenir une conversation du début à la fin.",
+      "fallback": "Repli : sous une pluie battante, même séance décalée à jeudi, et jeudi saute."
+    },
+    {
+      "id": "2026-S47-2",
+      "date": "2026-11-18",
+      "time": "19:15",
+      "duration_min": 30,
+      "discipline": "swim",
+      "discipline_label": "natation",
+      "title": "Natation repère 4x100 m souples",
+      "location": "Piscine municipale de Brumeval",
+      "distance": "900 m",
+      "lines": [
+        "300 m d'échauffement souple",
+        "4x100 m souples, 30 s de repos",
+        "4 temps lus à l'horloge, cycles comptés",
+        "200 m de retour au calme"
+      ],
+      "why": "Tu nages 400 m d'une traite : pas de test de 1000 m pour l'instant, ce serait un test de survie et non de niveau. Ces 4x100 m souples donnent un premier repère : le temps de chaque 100 m et le nombre de cycles par longueur. Le piège est de les nager vite. C'est réussi si les quatre temps sont à 3 secondes près.",
+      "fallback": "Repli : si le bassin est fermé, ce repère prend le créneau de vendredi midi et la séance technique saute."
+    },
+    {
+      "id": "2026-S47-3",
+      "date": "2026-11-19",
+      "time": "18:45",
+      "duration_min": 30,
+      "discipline": "run",
+      "discipline_label": "course",
+      "title": "Footing 30 min très facile",
+      "location": "Tour du parc éclairé, Brumeval",
+      "distance": "environ 4 km",
+      "lines": [
+        "5 min de marche rapide puis de trot",
+        "20 min à 3 sur 10, tu peux discuter",
+        "5 min de retour au calme en marchant"
+      ],
+      "why": "Une séance de volume, placée deux jours avant le repère vélo : elle doit laisser les jambes neuves. Le piège est de la trouver trop facile et d'accélérer. C'est réussi si tu finis avec l'envie d'en faire plus, sans en faire plus.",
+      "fallback": "Repli : en cas d'empêchement, repos. Cette séance ne se rattrape pas."
+    },
+    {
+      "id": "2026-S47-4",
+      "date": "2026-11-20",
+      "time": "12:15",
+      "duration_min": 25,
+      "discipline": "swim",
+      "discipline_label": "natation",
+      "title": "Natation technique 700 m",
+      "location": "Piscine municipale de Brumeval",
+      "distance": "700 m",
+      "lines": [
+        "200 m d'échauffement souple",
+        "6x50 m en comptant les cycles, 20 s de repos",
+        "200 m continus en nage ample",
+        "100 m de retour au calme"
+      ],
+      "why": "Une séance courte pour la glisse, la veille du repère vélo : elle ne charge pas les jambes. Le piège est d'en faire une séance de séries. C'est réussi si tu comptes le même nombre de cycles sur le sixième 50 m que sur le premier.",
+      "fallback": "Repli : si le bassin est fermé, repos."
+    },
+    {
+      "id": "2026-S47-5",
+      "date": "2026-11-21",
+      "time": "09:00",
+      "duration_min": 90,
+      "discipline": "bike",
+      "discipline_label": "vélo",
+      "title": "Vélo repère 20 min + endurance",
+      "location": "Départ du domicile, boucle des étangs",
+      "distance": "environ 32 km",
+      "lines": [
+        "15 min d'échauffement facile",
+        "20 min au meilleur effort régulier",
+        "55 min très faciles, en phrases complètes"
+      ],
+      "why": "Premier repère vélo, sans appareil : tu pars d'un point fixe, tu roules 20 minutes au meilleur effort que tu peux tenir de façon régulière, et tu notes l'endroit exact atteint. Dans huit semaines, même boucle, même départ : la distance dira si tu progresses. Le piège est de partir trop fort et de finir en perdition. C'est réussi si les dix dernières minutes sont au moins aussi rapides que les dix premières. Douleur dans la poitrine, malaise ou essoufflement anormal : tu arrêtes et tu consultes.",
+      "fallback": "Repli : route mouillée ou vent fort, le repère passe à samedi prochain et la sortie devient 90 min en phrases complètes."
+    },
+    {
+      "id": "2026-S47-6",
+      "date": "2026-11-22",
+      "time": "09:30",
+      "duration_min": 50,
+      "discipline": "run",
+      "discipline_label": "course",
+      "title": "Longue course 50 min en aisance",
+      "location": "Chemin du canal, Brumeval",
+      "distance": "environ 7 km",
+      "lines": [
+        "5 min de marche rapide puis de trot",
+        "40 min à 4 sur 10, en phrases complètes",
+        "5 min de retour au calme en marchant"
+      ],
+      "why": "La longue course de la semaine, à la durée que tu tiens déjà. Les tendons progressent moins vite que le souffle : c'est pour eux qu'on reste lent. Le piège est d'accélérer sur la fin parce que tout va bien. C'est réussi si tu peux encore faire des phrases complètes à la 45e minute.",
+      "fallback": "Repli : par verglas ou forte pluie, séance décalée à l'après-midi. Sinon 35 min suffisent."
+    }
+  ]
+}

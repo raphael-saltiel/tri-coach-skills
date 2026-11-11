@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//tri-coach-skills//export_ics//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Entraînements
+BEGIN:VEVENT
+UID:2026-S47-0@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+TRANSP:TRANSPARENT
+SUMMARY:😴 Repos complet
+DESCRIPTION:DISCIPLINE: repos\n---\nSemaine 1\, charge\, 4 h 30 prévues : 
+ exactement ce que tu faisais déjà\, pas plus. Tu n'as pas d'appareil de 
+ mesure : tout se pilote au ressenti sur 10 et au test de la parole. Deux r
+ epères à prendre cette semaine : natation mercredi\, vélo samedi. Le re
+ père de course vient la semaine prochaine.
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-1@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261117T184500
+DTEND:20261117T192000
+SUMMARY:🏃 Footing 35 min en aisance
+DESCRIPTION:DISCIPLINE: course\nDISTANCE: environ 5 km\n- 5 min de marche r
+ apide puis de trot\n- 22 min à 4 sur 10\, en phrases complètes\n- 4 lign
+ es droites de 20 s\, retour au pas\n- 4 min de retour au calme en marchant
+ \n---\nL'endurance se construit à une allure où tu peux parler. Les lign
+ es droites réveillent la foulée sans fatiguer : accélération progressi
+ ve\, jamais un sprint. Le piège est de courir à l'allure qui fait plaisi
+ r plutôt qu'à celle qui permet de parler. C'est réussi si tu aurais pu 
+ tenir une conversation du début à la fin.\nRepli : sous une pluie battan
+ te\, même séance décalée à jeudi\, et jeudi saute.
+LOCATION:Tour du parc éclairé\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Footing 35 min en aisance
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Footing 35 min en aisance
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-2@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261118T191500
+DTEND:20261118T194500
+SUMMARY:🏊 Natation repère 4x100 m souples
+DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 900 m\n- 300 m d'échauffement 
+ souple\n- 4x100 m souples\, 30 s de repos\n- 4 temps lus à l'horloge\, cy
+ cles comptés\n- 200 m de retour au calme\n---\nTu nages 400 m d'une trait
+ e : pas de test de 1000 m pour l'instant\, ce serait un test de survie et 
+ non de niveau. Ces 4x100 m souples donnent un premier repère : le temps d
+ e chaque 100 m et le nombre de cycles par longueur. Le piège est de les n
+ ager vite. C'est réussi si les quatre temps sont à 3 secondes près.\nRe
+ pli : si le bassin est fermé\, ce repère prend le créneau de vendredi m
+ idi et la séance technique saute.
+LOCATION:Piscine municipale de Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation repère 4x100 m souples
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation repère 4x100 m souples
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-3@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261119T184500
+DTEND:20261119T191500
+SUMMARY:🏃 Footing 30 min très facile
+DESCRIPTION:DISCIPLINE: course\nDISTANCE: environ 4 km\n- 5 min de marche r
+ apide puis de trot\n- 20 min à 3 sur 10\, tu peux discuter\n- 5 min de re
+ tour au calme en marchant\n---\nUne séance de volume\, placée deux jours
+  avant le repère vélo : elle doit laisser les jambes neuves. Le piège e
+ st de la trouver trop facile et d'accélérer. C'est réussi si tu finis a
+ vec l'envie d'en faire plus\, sans en faire plus.\nRepli : en cas d'empêc
+ hement\, repos. Cette séance ne se rattrape pas.
+LOCATION:Tour du parc éclairé\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Footing 30 min très facile
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Footing 30 min très facile
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-4@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261120T121500
+DTEND:20261120T124000
+SUMMARY:🏊 Natation technique 700 m
+DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 700 m\n- 200 m d'échauffement 
+ souple\n- 6x50 m en comptant les cycles\, 20 s de repos\n- 200 m continus 
+ en nage ample\n- 100 m de retour au calme\n---\nUne séance courte pour la
+  glisse\, la veille du repère vélo : elle ne charge pas les jambes. Le p
+ iège est d'en faire une séance de séries. C'est réussi si tu comptes l
+ e même nombre de cycles sur le sixième 50 m que sur le premier.\nRepli :
+  si le bassin est fermé\, repos.
+LOCATION:Piscine municipale de Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation technique 700 m
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation technique 700 m
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-5@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261121T090000
+DTEND:20261121T103000
+SUMMARY:🚴 Vélo repère 20 min + endurance
+DESCRIPTION:DISCIPLINE: vélo\nDISTANCE: environ 32 km\n- 15 min d'échauff
+ ement facile\n- 20 min au meilleur effort régulier\n- 55 min très facile
+ s\, en phrases complètes\n---\nPremier repère vélo\, sans appareil : tu
+  pars d'un point fixe\, tu roules 20 minutes au meilleur effort que tu peu
+ x tenir de façon régulière\, et tu notes l'endroit exact atteint. Dans 
+ huit semaines\, même boucle\, même départ : la distance dira si tu prog
+ resses. Le piège est de partir trop fort et de finir en perdition. C'est 
+ réussi si les dix dernières minutes sont au moins aussi rapides que les 
+ dix premières. Douleur dans la poitrine\, malaise ou essoufflement anorma
+ l : tu arrêtes et tu consultes.\nRepli : route mouillée ou vent fort\, l
+ e repère passe à samedi prochain et la sortie devient 90 min en phrases 
+ complètes.
+LOCATION:Départ du domicile\, boucle des étangs
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo repère 20 min + endurance
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo repère 20 min + endurance
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-6@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261122T093000
+DTEND:20261122T102000
+SUMMARY:🏃 Longue course 50 min en aisance
+DESCRIPTION:DISCIPLINE: course\nDISTANCE: environ 7 km\n- 5 min de marche r
+ apide puis de trot\n- 40 min à 4 sur 10\, en phrases complètes\n- 5 min 
+ de retour au calme en marchant\n---\nLa longue course de la semaine\, à l
+ a durée que tu tiens déjà. Les tendons progressent moins vite que le so
+ uffle : c'est pour eux qu'on reste lent. Le piège est d'accélérer sur l
+ a fin parce que tout va bien. C'est réussi si tu peux encore faire des ph
+ rases complètes à la 45e minute.\nRepli : par verglas ou forte pluie\, s
+ éance décalée à l'après-midi. Sinon 35 min suffisent.
+LOCATION:Chemin du canal\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Longue course 50 min en aisance
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Longue course 50 min en aisance
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
