@@ -8,6 +8,12 @@ It is not a generic plan. Its value is in the rules it applies: start from what 
 
 > **This pack replaces neither a doctor nor a certified coach.** It gives no medical advice. If you have a medical condition, are under treatment, or have any doubt, see your doctor before you start, and before any hard effort. Chest pain, faintness or abnormal breathlessness: stop and seek medical advice.
 
+## Why this pack exists
+
+This is the repository I wish I had when I started. I learned everything as I went, and I struggled more than once. This pack gathers what I wish someone had told me on day one, so that you do not have to go through the same.
+
+Rapha
+
 ## What is in the pack
 
 | Skill | What it does | It writes |

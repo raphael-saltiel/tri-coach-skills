@@ -8,6 +8,12 @@ Ce n'est pas un plan générique. Sa valeur est dans les règles qu'il applique 
 
 > **Ce pack ne remplace ni un médecin ni un entraîneur diplômé.** Il ne donne aucun conseil médical. Si tu as une condition médicale, un traitement en cours ou le moindre doute, vois ton médecin avant de commencer, et avant tout effort intense. Douleur dans la poitrine, malaise ou essoufflement anormal : tu arrêtes et tu consultes.
 
+## Pourquoi ce pack existe
+
+C'est le dépôt que j'aurais aimé avoir quand j'ai commencé. J'ai tout appris sur le tas, et j'ai galéré plus d'une fois. Ce pack rassemble ce que j'aurais voulu qu'on me dise dès le premier jour, pour que tu n'aies pas à passer par là.
+
+Rapha
+
 ## Ce que contient le pack
 
 | Skill | Ce qu'il fait | Ce qu'il écrit |
