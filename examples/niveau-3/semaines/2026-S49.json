@@ -1,0 +1,162 @@
+{
+  "calendar_name": "Entraînements",
+  "default_reminders_min": [
+    1440,
+    45
+  ],
+  "sessions": [
+    {
+      "id": "2026-S49-0",
+      "date": "2026-11-30",
+      "discipline": "rest",
+      "discipline_label": "repos",
+      "title": "Repos complet",
+      "why": "Semaine 3, charge, 5 h 20 prévues. Dernière semaine du premier bloc avant la décharge. Séances clés : les blocs au seuil de mardi et le premier enchaînement de samedi."
+    },
+    {
+      "id": "2026-S49-7",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "duration_min": 12,
+      "discipline": "strength",
+      "discipline_label": "gainage",
+      "title": "Gainage 12 min",
+      "location": "Domicile, Brumeval",
+      "lines": [
+        "3x45 s de planche, 30 s de repos",
+        "3x30 s de planche latérale par côté",
+        "3x12 ponts fessiers sur une jambe par côté",
+        "3x30 s de superman"
+      ],
+      "why": "Le gainage tient le bassin quand la fatigue arrive, à vélo comme à pied. Tu es à 45 secondes de planche propre, la cible est 60 : on ajoute 5 secondes par semaine de charge, pas plus. Le piège est de tenir en laissant le bassin descendre. C'est réussi si la dernière seconde ressemble à la première. Accroché au lundi soir, jour de repos : c'est ce qui évite qu'il saute."
+    },
+    {
+      "id": "2026-S49-1",
+      "date": "2026-12-01",
+      "time": "18:45",
+      "duration_min": 40,
+      "discipline": "run",
+      "discipline_label": "course",
+      "title": "Seuil 3x6 min à 5'15/km",
+      "location": "Piste du stade, Brumeval",
+      "distance": "6,5 km",
+      "lines": [
+        "12 min d'échauffement sous 150 bpm",
+        "3x6 min à 5'15/km, 2 min de trot entre",
+        "6 min de retour au calme en trottinant"
+      ],
+      "why": "Cette séance élève l'allure que tu peux tenir longtemps. Sur des blocs de 6 minutes, l'allure est la consigne et la fréquence cardiaque un simple témoin : elle monte en retard. Le piège est de partir plus vite que 5'15 sur le premier bloc. C'est réussi si le troisième bloc est aussi rapide que le premier.",
+      "fallback": "Repli : si la piste est fermée, même séance sur la route plate du canal, au ressenti 7 sur 10."
+    },
+    {
+      "id": "2026-S49-2",
+      "date": "2026-12-02",
+      "time": "19:15",
+      "duration_min": 30,
+      "discipline": "swim",
+      "discipline_label": "natation",
+      "title": "Natation 5x100 m souples",
+      "location": "Piscine municipale de Brumeval",
+      "distance": "900 m",
+      "lines": [
+        "200 m d'échauffement souple",
+        "5x100 m à 2'45, 20 s de repos",
+        "24 cycles par 25 m au plus sur les 100 m",
+        "200 m de retour au calme en nage ample"
+      ],
+      "why": "Tu ne nages que 400 m d'une traite : cette séance allonge la distance utile sans forcer. Le piège est de nager les 100 m plus vite que 2'45, ce qui fait monter le nombre de cycles. C'est réussi si le cinquième 100 m a le même temps et le même nombre de cycles que le premier.",
+      "fallback": "Repli : si le bassin est fermé, cette séance prend le créneau de vendredi midi et la séance technique saute."
+    },
+    {
+      "id": "2026-S49-8",
+      "date": "2026-12-02",
+      "time": "19:50",
+      "duration_min": 20,
+      "discipline": "strength",
+      "discipline_label": "renforcement",
+      "title": "Renfo préventif 20 min",
+      "location": "Piscine municipale de Brumeval, bord du bassin",
+      "lines": [
+        "3x12 montées sur pointes par jambe",
+        "3x10 ponts fessiers sur une jambe par côté",
+        "3x8 fentes arrière par côté",
+        "3x30 s de planche latérale par côté"
+      ],
+      "why": "Mollets et hanches : là où la course à pied use en premier, et ta cheville gauche a un passé. Fait juste après la natation, avant la douche, les jambes sont fraîches. Le piège est de bâcler la descente des montées sur pointes : deux secondes pour monter, trois pour descendre. Si un exercice fait mal, il s'arrête et tu me le dis."
+    },
+    {
+      "id": "2026-S49-3",
+      "date": "2026-12-03",
+      "time": "18:30",
+      "duration_min": 40,
+      "discipline": "bike",
+      "discipline_label": "vélo",
+      "title": "Home-trainer 2x8 min à 175 W",
+      "location": "Domicile, Brumeval",
+      "lines": [
+        "12 min d'échauffement de 100 à 145 W",
+        "2x8 min à 175 W, cadence 85 à 95",
+        "4 min à 100 W entre les deux blocs",
+        "8 min de retour au calme sous 110 W"
+      ],
+      "why": "Deux blocs en haut de la zone tempo pour apprendre à tenir un effort soutenu assis, sans à-coups. Le piège en mode ERG est de laisser tomber la cadence : sous 80 tours, relance les jambes avant que la résistance ne te bloque. C'est réussi si la cadence du second bloc est celle du premier.",
+      "fallback": "Repli : si le home-trainer n'est pas disponible, 40 min de course en aisance sous 150 bpm."
+    },
+    {
+      "id": "2026-S49-4",
+      "date": "2026-12-04",
+      "time": "12:15",
+      "duration_min": 25,
+      "discipline": "swim",
+      "discipline_label": "natation",
+      "title": "Natation technique 700 m",
+      "location": "Piscine municipale de Brumeval",
+      "distance": "700 m",
+      "lines": [
+        "200 m d'échauffement souple",
+        "6x50 m en comptant les cycles, 20 s de repos",
+        "200 m continus à 24 cycles par 25 m",
+        "100 m de retour au calme"
+      ],
+      "why": "Une séance courte pour la glisse, à la veille de la sortie longue : elle ne charge pas les jambes. Le piège est d'en faire une séance de séries. C'est réussi si tu sors de l'eau plus fraîche qu'en y entrant et si les 200 m continus passent sans arrêt au mur.",
+      "fallback": "Repli : si le bassin est fermé, repos. Cette séance ne se rattrape pas."
+    },
+    {
+      "id": "2026-S49-5",
+      "date": "2026-12-05",
+      "time": "09:00",
+      "duration_min": 130,
+      "discipline": "bike",
+      "discipline_label": "vélo",
+      "title": "Sortie longue 2 h + 10 min à pied",
+      "location": "Départ du domicile, boucle des étangs",
+      "distance": "45 km à vélo, 1,5 km à pied",
+      "lines": [
+        "10 min de mise en route très souple",
+        "100 min sous 142 bpm, 1 gel à 45 min",
+        "10 min en moulinant pour finir",
+        "10 min de course, 1re minute en marchant vite"
+      ],
+      "why": "La sortie longue construit l'endurance du vélo, et les 10 minutes à pied t'apprennent à courir avec des jambes de cycliste. Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardiaque qui pilote, avec un plafond à 142 et pas de plancher. Premier pas d'entraînement de l'estomac : un gel à 45 minutes, avec de l'eau, et tu notes comment il passe. Le piège est de partir trop vite à pied : première minute en marchant vite, puis cinq minutes volontairement lentes quelle que soit la sensation. C'est réussi si tu finis en ayant pu parler tout le long.",
+      "fallback": "Repli : si la route est impraticable, 1 h 45 de home-trainer entre 110 et 146 W, puis les 10 min de course."
+    },
+    {
+      "id": "2026-S49-6",
+      "date": "2026-12-06",
+      "time": "09:30",
+      "duration_min": 60,
+      "discipline": "run",
+      "discipline_label": "course",
+      "title": "Longue course 1 h sous 150 bpm",
+      "location": "Chemin du canal, Brumeval",
+      "distance": "9 km",
+      "lines": [
+        "5 min de marche rapide puis de trot",
+        "50 min sous 150 bpm, environ 7,5 km",
+        "5 min de retour au calme en marchant"
+      ],
+      "why": "L'endurance à pied se construit lentement, les tendons suivent moins vite que le souffle. Le plafond est 150 bpm et pas plus vite que 5'59 au km : aller plus lentement n'est jamais une faute. Le piège est d'accélérer sur la fin parce que tout va bien. C'est réussi si les dix dernières minutes sont à la même fréquence cardiaque que les dix premières.",
+      "fallback": "Repli : par verglas ou forte pluie, même durée sur tapis ou séance décalée à l'après-midi. Si ni l'un ni l'autre, 45 min suffisent."
+    }
+  ]
+}

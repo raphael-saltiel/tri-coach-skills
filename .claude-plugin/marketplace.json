@@ -1,0 +1,15 @@
+{
+  "name": "tri-coach-skills",
+  "description": "A free pack of skills that turn the assistant into a triathlon coach for beginners.",
+  "owner": {
+    "name": "Rapha"
+  },
+  "plugins": [
+    {
+      "name": "tri-coach",
+      "source": "./",
+      "description": "Coach a beginner triathlete from the first question to race day, at three equipment levels.",
+      "category": "sports"
+    }
+  ]
+}

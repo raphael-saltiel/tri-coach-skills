@@ -1,0 +1,88 @@
+{
+  "format": "M",
+  "segments": {
+    "swim": {
+      "seconds": 2624,
+      "time": "0:43:44"
+    },
+    "t1": {
+      "seconds": 300,
+      "time": "0:05:00"
+    },
+    "bike": {
+      "seconds": 5418,
+      "time": "1:30:18",
+      "avg_speed_kmh": 26.6
+    },
+    "t2": {
+      "seconds": 180,
+      "time": "0:03:00"
+    },
+    "run": {
+      "seconds": 4300,
+      "time": "1:11:40"
+    }
+  },
+  "total": {
+    "seconds": 12822,
+    "time": "3:33:42"
+  },
+  "finish_clock": "13:03",
+  "cutoffs": [
+    {
+      "name": "swim",
+      "limit": "1:00:00",
+      "elapsed": "0:43:44",
+      "margin_s": 976,
+      "margin": "0:16:16",
+      "ok": true
+    },
+    {
+      "name": "bike",
+      "limit": "3:15:00",
+      "elapsed": "2:19:02",
+      "margin_s": 3358,
+      "margin": "0:55:58",
+      "ok": true
+    },
+    {
+      "name": "finish",
+      "limit": "4:30:00",
+      "elapsed": "3:33:42",
+      "margin_s": 3378,
+      "margin": "0:56:18",
+      "ok": true
+    }
+  ],
+  "levers": [
+    {
+      "lever": "bike power +20 W",
+      "gain_s": 333,
+      "gain": "0:05:33"
+    },
+    {
+      "lever": "position: drops instead of hoods",
+      "gain_s": 171,
+      "gain": "0:02:51"
+    },
+    {
+      "lever": "swim 10 s per 100 m faster",
+      "gain_s": 159,
+      "gain": "0:02:39"
+    }
+  ],
+  "assumptions": {
+    "cda_m2": 0.343,
+    "total_mass_kg": 77.5,
+    "rolling_resistance": 0.005,
+    "air_density": 1.2,
+    "drivetrain_efficiency": 0.975,
+    "bike_profile": "half the distance climbing, half descending, no wind",
+    "max_descent_kmh": 45.0,
+    "open_water_penalty": 0.06,
+    "run_fade_s_per_km": 30,
+    "t1_s": 300,
+    "t2_s": 180,
+    "bike_power_w": 156
+  }
+}
