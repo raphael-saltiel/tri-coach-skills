@@ -37,9 +37,9 @@ def split(path):
 
 
 class SkillFilesTest(unittest.TestCase):
-    def test_every_skill_is_known(self):
+    def test_the_ten_skills_exist(self):
+        self.assertEqual({skill.name for skill in skill_dirs()}, set(REQUIRED))
         for skill in skill_dirs():
-            self.assertIn(skill.name, REQUIRED)
             self.assertTrue((skill / "SKILL.md").is_file(), skill.name)
 
     def test_front_matter(self):
@@ -103,7 +103,7 @@ class RepositoryTextTest(unittest.TestCase):
                    "sys", "urllib", "time"}
         for script in SKILLS.glob("*/scripts/*.py"):
             for line in script.read_text(encoding="utf-8").splitlines():
-                match = re.match(r"(?:import|from) ([a-z_]+)", line)
+                match = re.match(r"(?:import|from) ([a-z_0-9]+)", line)
                 if match:
                     self.assertIn(match.group(1), allowed, f"{script.name}: {line}")
 

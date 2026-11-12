@@ -1,0 +1,14 @@
+{
+  "workouts": [
+    {
+      "id": "2026-S49-3",
+      "date": "2026-12-03",
+      "time": "18:30",
+      "sport": "VirtualRide",
+      "name": "Home-trainer 2x8 min à 175 W",
+      "duration_min": 40,
+      "indoor": true,
+      "description": "Warmup\n- 12m Ramp 50-75%\n\n2x\n- 8m 90% 85-95rpm\n- 4m 50%\n\nCooldown\n- 8m 50%"
+    }
+  ]
+}

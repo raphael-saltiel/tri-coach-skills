@@ -1,0 +1,12 @@
+{
+  "name": "tri-coach",
+  "displayName": "Tri Coach",
+  "version": "1.0.0",
+  "description": "Ten skills that coach a beginner triathlete from the first question to race day: profile, tests and zones, plan, weekly sessions, reviews, strength, effort fuelling, race-day estimate, data connections and a beginner's guide.",
+  "author": {
+    "name": "Rapha"
+  },
+  "repository": "https://github.com/raphael-saltiel/tri-coach-skills",
+  "license": "MIT",
+  "keywords": ["triathlon", "training", "coaching", "endurance", "beginner"]
+}

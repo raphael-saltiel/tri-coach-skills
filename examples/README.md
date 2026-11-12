@@ -18,6 +18,7 @@ In each folder:
 | `journal.md`, and `bilan.md` (one debrief written out in full) | tri-bilan |
 | `nutrition.md` | tri-nutrition |
 | `jour-j.md`, `jour-j.json` | tri-jour-j |
+| `connect.md`, and at level 3 `semaines/2026-S49-workouts.json` (the trainer session sent to Intervals.icu) | tri-connect |
 | `lexique.md` | every skill: the terms already explained to the athlete |
 
 `plan.csv`, the `.ics` files and `jour-j.json` are the exact output of the scripts: `tests/test_examples.py` regenerates them and compares.

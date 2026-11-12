@@ -9,6 +9,7 @@ from datetime import date
 
 from helpers import ROOT, load_script
 
+icu = load_script("tri-connect", "intervals")
 race = load_script("tri-jour-j", "race_estimate")
 ramp = load_script("tri-plan", "ramp")
 ics = load_script("tri-semaine", "export_ics")
@@ -50,6 +51,15 @@ class ExamplesTest(unittest.TestCase):
                 race.main(RACE + extra)
             committed = (EXAMPLES / level / "jour-j.json").read_text(encoding="utf-8")
             self.assertEqual(out.getvalue(), committed, level)
+
+    def test_workout_sent_to_intervals_shares_the_calendar_id(self):
+        folder = EXAMPLES / "niveau-3" / "semaines"
+        events = icu.workout_events(json.loads(
+            (folder / "2026-S49-workouts.json").read_text(encoding="utf-8")))
+        calendar = (folder / "2026-S49.ics").read_text(encoding="utf-8")
+        for event in events:
+            self.assertEqual(event["category"], "WORKOUT")
+            self.assertIn(f"UID:{event['uid']}", calendar)
 
     def test_week_file_and_calendar_input_agree(self):
         for level, (week, _, _) in WEEKS.items():
