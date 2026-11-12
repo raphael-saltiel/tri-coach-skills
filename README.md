@@ -52,7 +52,7 @@ Pick one of the three ways.
 3. Paste `raphael-saltiel/tri-coach-skills` and confirm.
 4. The **Tri Coach** plugin appears in the list. Select it, then **Add**.
 
-The pack uses small calculation scripts. For them to run, code execution and file creation must be turned on in your Claude settings. While this repository is private, Claude will ask you to connect your GitHub account first.
+The pack uses small calculation scripts. For them to run, code execution and file creation must be turned on in your Claude settings.
 
 ### 2. In Claude Code
 
