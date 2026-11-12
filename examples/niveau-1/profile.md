@@ -50,7 +50,9 @@ Mis à jour : 11 novembre 2026
 - Refus : salle de sport, deux séances le même jour
 - Autres sports : aucun
 - Signal de récupération : ressenti du matin, trois niveaux choisis par Camille (en forme, moyen, à plat)
-- Retours : courts et directs
+
+## Niveau de détail
+- détaillé : chaque terme expliqué, la raison de chaque chiffre. C'est le réglage par défaut pour un premier triathlon, modifiable à tout moment.
 
 ## Inconnues à lever
 - Température de l'eau le jour de la course et règle sur la combinaison : Camille, sur le site de l'organisateur

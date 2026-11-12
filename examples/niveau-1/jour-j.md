@@ -8,6 +8,14 @@ Première estimation, établie le 22 novembre 2026, sans appareil de mesure. À 
 - Barrières horaires : sortie de l'eau 1 h 00, fin du vélo 3 h 15, arrivée 4 h 30 (règlement lu par Camille le 10 novembre 2026).
 - À vérifier avant la course : température de l'eau et règle sur la combinaison, contenu des ravitaillements.
 
+## Comment lire cette estimation
+- **L'estimation** est un calcul de ta course à partir de ce que tu sais faire aujourd'hui, sur le vrai parcours. C'est un temps probable par temps calme, pas une promesse.
+- **Une barrière horaire** est une limite de temps fixée par l'organisateur à un point de la course. Si tu y passes après la limite, tu es arrêtée.
+- **La marge** est le temps entre ton passage estimé et la barrière. C'est ce qu'une crevaison, un vent de face ou un coup de moins bien peuvent manger.
+- **Un levier** est quelque chose que tu peux changer et qui raccourcit la course. Chacun est donné en minutes, pour voir lequel mérite ton temps d'entraînement.
+- **La dégradation à pied** est ce que tu perds en courant après le vélo par rapport à des jambes fraîches.
+- **Le poids n'est pas un levier.** Il entre dans le calcul comme la longueur du parcours : c'est une donnée. Les leviers proposés sont ceux que l'entraînement change : le moteur, la position, la natation.
+
 ## Estimation (estimée : aucun test n'est encore fait)
 
 | Partie | Temps | D'où vient le chiffre |
@@ -45,9 +53,9 @@ Le moteur à vélo est le seul vrai levier : il vaut quatre fois les deux autres
 Finir, dans les barrières. Un objectif chrono se décidera après le premier retest. Un objectif revu à la baisse n'est pas un échec de la préparation.
 
 ## Plan de course
-- Natation : départ sur le côté, 200 premiers mètres en nage ample, puis ton rythme.
-- Vélo : phrases courtes sur le plat, un cran de plus au maximum dans la côte du km 12. Dix premières minutes plus faciles que le plan.
-- Course à pied : première minute en marchant vite, cinq minutes volontairement lentes, puis l'effort où tu peux encore dire quelques mots. Marche aux ravitaillements si cela t'aide à boire.
+- Natation : départ sur le côté, pour nager dans une eau calme plutôt que dans la mêlée. 200 premiers mètres en nage ample, puis ton rythme.
+- Vélo : phrases courtes sur le plat, un cran de plus au maximum dans la côte du km 12. Dix premières minutes plus faciles que le plan : après la natation, les jambes mentent.
+- Course à pied : première minute en marchant vite, cinq minutes volontairement lentes, parce que les jambes sortent du vélo avec l'impression d'aller lentement alors qu'elles vont trop vite, puis l'effort où tu peux encore dire quelques mots. Marche aux ravitaillements si cela t'aide à boire.
 - Transitions : dans l'ordre répété lors de la répétition générale de la semaine 17.
 
 ## Alimentation

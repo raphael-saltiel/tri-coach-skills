@@ -25,6 +25,15 @@ Turn one row of the plan into real sessions, in real time slots, each one readab
 - If a file you need is missing, name it, name the skill that produces it, and offer to run that skill: `profile.md` tri-onboarding, `zones.md` tri-tests, `plan.md` and `plan.csv` tri-plan, `semaines/` tri-semaine, `journal.md` tri-bilan.
 <!-- /common:state-files -->
 
+<!-- common:detail -->
+## Level of detail
+
+- The profile stores the athlete's level of detail: "detailed" (the default for a beginner) or "essential". If it is missing, use "detailed" and say once that the short version is available on request.
+- **Detailed**: give the reason behind every number (where it comes from, what it is for) and explain each technical term in a few plain words. A file the athlete keeps (plan, zones, race day, fuelling) explains its own terms where they first appear. A recurring output (week file, debrief) explains a term only if it is not yet in `athlete/lexique.md`, then adds it there with its explanation.
+- **Essential**: numbers and decisions only. Explain on request.
+- At both levels: start with the conclusion, and keep the session instruction lines in their strict format. Detail goes below them, never into them. More detail never means more adjectives.
+<!-- /common:detail -->
+
 <!-- common:safety -->
 ## Safety limits
 
@@ -96,7 +105,7 @@ Turn one row of the plan into real sessions, in real time slots, each one readab
 - **Brick**: the run starts with a first minute walking fast, then five minutes deliberately slow, whatever the legs say.
 - **Sessions over 90 minutes**: one line for fuelling, taken from `athlete/nutrition.md` when it exists.
 - **Fallback**: every swim, ride and run carries one written fallback of equal value for its most likely obstacle (weather, no bike, pool closed, travel). The athlete must not have to improvise.
-- **Why paragraph**: what the session builds, the usual trap, the success criterion. Two to four sentences.
+- **Why paragraph**: what the session builds, the usual trap, the success criterion. Two to four sentences. At the "detailed" level, the first time a kind of session or a term appears (strides, brick, threshold blocks, ERG mode, strokes per length), the paragraph adds one sentence on how to do it, and the term goes into `athlete/lexique.md`.
 
 ## Adjusting a week already written
 

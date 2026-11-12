@@ -25,6 +25,15 @@ Tell the athlete what the session was worth against what was planned, and whethe
 - If a file you need is missing, name it, name the skill that produces it, and offer to run that skill: `profile.md` tri-onboarding, `zones.md` tri-tests, `plan.md` and `plan.csv` tri-plan, `semaines/` tri-semaine, `journal.md` tri-bilan.
 <!-- /common:state-files -->
 
+<!-- common:detail -->
+## Level of detail
+
+- The profile stores the athlete's level of detail: "detailed" (the default for a beginner) or "essential". If it is missing, use "detailed" and say once that the short version is available on request.
+- **Detailed**: give the reason behind every number (where it comes from, what it is for) and explain each technical term in a few plain words. A file the athlete keeps (plan, zones, race day, fuelling) explains its own terms where they first appear. A recurring output (week file, debrief) explains a term only if it is not yet in `athlete/lexique.md`, then adds it there with its explanation.
+- **Essential**: numbers and decisions only. Explain on request.
+- At both levels: start with the conclusion, and keep the session instruction lines in their strict format. Detail goes below them, never into them. More detail never means more adjectives.
+<!-- /common:detail -->
+
 <!-- common:safety -->
 ## Safety limits
 
@@ -54,7 +63,11 @@ Several devices often record the same session. Keep one recording per session, t
 4. **A point of attention**, if there is one. Only one, the most useful. If there is none, say there is none.
 5. **What comes next.** The next session, and whether anything in the coming days changes. If nothing changes, say "nothing changes".
 
-Keep it short: numbers, not adjectives. Frank when the session missed its purpose, without softening. No congratulations for doing what was written. Worked debriefs at levels 1 and 3: `references/debrief.md`.
+Numbers, not adjectives. Frank when the session missed its purpose, without softening. No congratulations for doing what was written. Worked debriefs at levels 1 and 3: `references/debrief.md`.
+
+The level of detail changes the length, never the order:
+- **Essential**: one or two sentences per part.
+- **Detailed**: the reading also explains the mechanism in plain words (why a start that is too fast shows up as blocks that slow down, why heart rate lags on short blocks), the point of attention says how to apply it next time, and "what comes next" says why nothing changes when nothing changes. Still one point of attention, not three.
 
 ## Reading rules
 

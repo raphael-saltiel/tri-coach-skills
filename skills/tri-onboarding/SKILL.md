@@ -25,6 +25,15 @@ Build the athlete's profile by asking, in a fixed order, what a coach needs befo
 - If a file you need is missing, name it, name the skill that produces it, and offer to run that skill: `profile.md` tri-onboarding, `zones.md` tri-tests, `plan.md` and `plan.csv` tri-plan, `semaines/` tri-semaine, `journal.md` tri-bilan.
 <!-- /common:state-files -->
 
+<!-- common:detail -->
+## Level of detail
+
+- The profile stores the athlete's level of detail: "detailed" (the default for a beginner) or "essential". If it is missing, use "detailed" and say once that the short version is available on request.
+- **Detailed**: give the reason behind every number (where it comes from, what it is for) and explain each technical term in a few plain words. A file the athlete keeps (plan, zones, race day, fuelling) explains its own terms where they first appear. A recurring output (week file, debrief) explains a term only if it is not yet in `athlete/lexique.md`, then adds it there with its explanation.
+- **Essential**: numbers and decisions only. Explain on request.
+- At both levels: start with the conclusion, and keep the session instruction lines in their strict format. Detail goes below them, never into them. More detail never means more adjectives.
+<!-- /common:detail -->
+
 <!-- common:safety -->
 ## Safety limits
 
@@ -51,7 +60,7 @@ Exact wording, answer options and the reason behind each question: `references/q
 3. **Equipment.** Level for each situation (table below), the bike and the positions it allows (hoods, drops, aero bars, and whether aero bars can be fitted at all), the devices and apps that record sessions.
 4. **Body data for the bike model.** Height. Weight and bike weight are optional: explain they only feed the physics of the bike time estimate. If the athlete declines, or mentions a difficult relationship with food or weight, skip it and note "estimated from height". Weight is never presented as something to change.
 5. **Health and injury history.** Past injuries (what, when, resolved or not), any current pain, any medical condition or treatment, date of the last medical check. Apply the safety limits above: note the constraint, recommend the doctor, give no advice on the condition.
-6. **Preferences.** Morning or evening, number of sessions wanted, what they refuse (gym, two sessions a day, trainer), other sports they keep, how they want feedback, and which recovery signal they trust (watch, band or morning feeling) with their own thresholds if they have some.
+6. **Preferences.** Morning or evening, number of sessions wanted, what they refuse (gym, two sessions a day, trainer), other sports they keep, which recovery signal they trust (watch, band or morning feeling) with their own thresholds if they have some, and the level of detail they want: "detailed" (every term explained, the reason behind every number) or "essential" (numbers and decisions only). For a first triathlon the default is "detailed": say so, and say it can be changed at any time.
 
 ## Equipment level
 
@@ -75,7 +84,7 @@ Write one line each for: indoor bike, outdoor bike, run, swim. A home trainer wi
 
 ## Write `athlete/profile.md`
 
-Use the structure in `references/profile-template.md`, in the athlete's language. Every figure carries its source: "said by the athlete", "to find", "to measure", or "estimated". Keep the gates and the equipment levels in their own sections: every other skill reads them.
+Use the structure in `references/profile-template.md`, in the athlete's language. Every figure carries its source: "said by the athlete", "to find", "to measure", or "estimated". Keep the gates, the equipment levels and the level of detail in their own sections: every other skill reads them.
 
 ## Close
 

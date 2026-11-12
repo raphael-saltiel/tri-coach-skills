@@ -26,6 +26,33 @@ Threshold power is 95 percent of the 20 minute average. Bike power zones use the
 
 The endurance ceiling is the top of zone 2. An endurance zone has a ceiling, not a floor: the lower bound is only a landmark.
 
+## Plain-words explanations (for the "detailed" level)
+
+Use these wordings, translated, so that the same term is always explained the same way.
+
+| Term | In plain words |
+|---|---|
+| Threshold | The hardest effort you can hold steadily for about an hour. Above it, fatigue builds faster than the body clears it and you have to slow down within minutes. Everything else is set from it. |
+| Threshold power, heart rate, pace | The same limit, read in watts on the bike, in beats per minute, or in minutes per km. |
+| Zone | A band of effort with one purpose. Training in the right zone is what makes an easy day easy and a hard day useful. |
+| RPE, effort out of 10 | Your own rating of how hard it feels, from 1 (strolling) to 10 (all out). |
+| Talk test | How much you can say while moving. Full sentences: endurance. A few words: threshold. |
+| Endurance ceiling | The top of the endurance zone. Stay under it. There is no minimum: slower still builds endurance, faster turns the session into something else. |
+| Estimated, measured | "Measured" comes from one of your tests. "Estimated" is a cautious guess used until the test is done, set low on purpose. |
+| Expected value, verdict | What the next test should show if training is working. Within 2.5 percent: on track. |
+| Drift | Heart rate creeping up while pace or power stays the same. A little is normal on long sessions. |
+| Strokes per length | How many arm strokes it takes to cross the pool. Fewer at the same speed means a more efficient stroke. |
+
+What each zone is for:
+
+| Zone | Used for | How it feels |
+|---|---|---|
+| 1, recovery | easy days, the minutes between hard blocks | you could do this all day |
+| 2, endurance | most of the training: it builds the base everything else stands on | comfortable, you can hold a conversation |
+| 3, tempo | steady sustained blocks, race effort on shorter formats | you have to concentrate to hold it |
+| 4, threshold | quality blocks that raise the effort you can hold for long | hard but controlled, a few words at a time |
+| 5, VO2max | short hard repeats, rare in a beginner's plan | very hard, counted in minutes |
+
 ## Estimated zones (before any test)
 
 With the highest heart rate the athlete has really observed, the script takes run threshold as 85 percent of it and bike threshold as 82 percent. These factors are a convention of this pack, chosen low on purpose: an estimated ceiling that is too low costs nothing, one that is too high turns every easy session into a hard one. They are replaced at the first test. Never use an age formula as if it were a measurement.

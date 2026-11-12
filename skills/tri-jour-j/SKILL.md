@@ -25,6 +25,15 @@ Give the athlete an honest estimate of their race on the real course, a simple w
 - If a file you need is missing, name it, name the skill that produces it, and offer to run that skill: `profile.md` tri-onboarding, `zones.md` tri-tests, `plan.md` and `plan.csv` tri-plan, `semaines/` tri-semaine, `journal.md` tri-bilan.
 <!-- /common:state-files -->
 
+<!-- common:detail -->
+## Level of detail
+
+- The profile stores the athlete's level of detail: "detailed" (the default for a beginner) or "essential". If it is missing, use "detailed" and say once that the short version is available on request.
+- **Detailed**: give the reason behind every number (where it comes from, what it is for) and explain each technical term in a few plain words. A file the athlete keeps (plan, zones, race day, fuelling) explains its own terms where they first appear. A recurring output (week file, debrief) explains a term only if it is not yet in `athlete/lexique.md`, then adds it there with its explanation.
+- **Essential**: numbers and decisions only. Explain on request.
+- At both levels: start with the conclusion, and keep the session instruction lines in their strict format. Detail goes below them, never into them. More detail never means more adjectives.
+<!-- /common:detail -->
+
 <!-- common:safety -->
 ## Safety limits
 
@@ -110,3 +119,9 @@ In the athlete's language:
 5. **Pacing plan**: one line per leg, at the athlete's equipment level.
 6. **Fuelling timeline.**
 7. **Checklist.**
+
+At the "detailed" level, `jour-j.md` also carries, using the plain-words explanations of `references/model.md`:
+- for each leg, how the figure was built and which input it rests on,
+- what a cut-off is and what happens if it is missed,
+- what a lever is, why these three, and why weight is not one,
+- for each line of the pacing plan, the reason behind it.

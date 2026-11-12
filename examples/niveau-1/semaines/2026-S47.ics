@@ -12,9 +12,14 @@ TRANSP:TRANSPARENT
 SUMMARY:😴 Repos complet
 DESCRIPTION:DISCIPLINE: repos\n---\nSemaine 1\, charge\, 4 h 30 prévues : 
  exactement ce que tu faisais déjà\, pas plus. Tu n'as pas d'appareil de 
- mesure : tout se pilote au ressenti sur 10 et au test de la parole. Deux r
- epères à prendre cette semaine : natation mercredi\, vélo samedi. Le re
- père de course vient la semaine prochaine.
+ mesure : tout se pilote avec deux instruments. Le ressenti sur 10 : 1\, tu
+  te promènes \; 10\, tu es à fond. Le test de la parole : tant que tu pe
+ ux faire des phrases complètes\, tu es en endurance. Deux repères à pre
+ ndre cette semaine\, natation mercredi et vélo samedi. Un repère est une
+  mesure simple qu'on refera à l'identique dans huit semaines pour voir si
+  l'entraînement fonctionne. Le repère de course vient la semaine prochai
+ ne. Chaque séance a son repli : la séance de remplacement écrite d'avan
+ ce pour le jour où la séance prévue est impossible.
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-S47-7@tri-coach-skills
@@ -27,10 +32,15 @@ DESCRIPTION:DISCIPLINE: gainage\n- 1 planche tenue proprement\, temps noté
  iers par côté\, comptée\n- 1 superman tenu proprement\, temps noté\n--
  -\nPremière séance : on cherche ton point de départ\, pas une performan
  ce. Chaque exercice est tenu jusqu'à ce que la forme se dégrade\, pas ju
- squ'à l'épuisement\, et tu notes le temps ou le nombre. La routine déma
- rrera à ce niveau et montera de 5 secondes ou 2 répétitions par semaine
-  de charge. Le piège est de tenir en trichant sur la position. Accroché 
- au lundi soir\, jour de repos.
+ squ'à l'épuisement\, et tu notes le temps ou le nombre. Planche : appui 
+ sur les avant-bras et les pointes de pieds\, corps aligné. Planche latér
+ ale : appui sur un avant-bras et le bord du pied\, hanches hautes. Pont fe
+ ssier : sur le dos\, un pied au sol\, l'autre jambe levée\, tu montes le 
+ bassin en poussant dans le talon. Superman : à plat ventre\, tu décolles
+  légèrement bras\, poitrine et jambes\, regard vers le sol. La routine d
+ émarrera aux trois quarts de ce niveau et montera de 5 secondes ou 2 rép
+ étitions par semaine de charge. Le piège est de tenir en trichant sur la
+  position. Accroché au lundi soir\, jour de repos.
 LOCATION:Domicile\, Brumeval
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -52,12 +62,13 @@ SUMMARY:🏃 Footing 35 min en aisance
 DESCRIPTION:DISCIPLINE: course\nDISTANCE: environ 5 km\n- 5 min de marche r
  apide puis de trot\n- 22 min à 4 sur 10\, en phrases complètes\n- 4 lign
  es droites de 20 s\, retour au pas\n- 4 min de retour au calme en marchant
- \n---\nL'endurance se construit à une allure où tu peux parler. Les lign
- es droites réveillent la foulée sans fatiguer : accélération progressi
- ve\, jamais un sprint. Le piège est de courir à l'allure qui fait plaisi
- r plutôt qu'à celle qui permet de parler. C'est réussi si tu aurais pu 
- tenir une conversation du début à la fin.\nRepli : sous une pluie battan
- te\, même séance décalée à jeudi\, et jeudi saute.
+ \n---\nL'endurance se construit à une allure où tu peux parler. Une lign
+ e droite est une accélération progressive de 20 secondes\, relâchée\, 
+ jamais un sprint : elle réveille la foulée sans fatiguer\, et tu reviens
+  au pas avant la suivante. Le piège est de courir à l'allure qui fait pl
+ aisir plutôt qu'à celle qui permet de parler. C'est réussi si tu aurais
+  pu tenir une conversation du début à la fin.\nRepli : sous une pluie ba
+ ttante\, même séance décalée à jeudi\, et jeudi saute.
 LOCATION:Tour du parc éclairé\, Brumeval
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -81,10 +92,11 @@ DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 900 m\n- 300 m d'échauffement
  cles comptés\n- 200 m de retour au calme\n---\nTu nages 400 m d'une trait
  e : pas de test de 1000 m pour l'instant\, ce serait un test de survie et 
  non de niveau. Ces 4x100 m souples donnent un premier repère : le temps d
- e chaque 100 m et le nombre de cycles par longueur. Le piège est de les n
- ager vite. C'est réussi si les quatre temps sont à 3 secondes près.\nRe
- pli : si le bassin est fermé\, ce repère prend le créneau de vendredi m
- idi et la séance technique saute.
+ e chaque 100 m et le nombre de cycles par longueur. Un cycle est un mouvem
+ ent complet des deux bras. Le piège est de les nager vite. C'est réussi 
+ si les quatre temps sont à 3 secondes près.\nRepli : si le bassin est fe
+ rmé\, ce repère prend le créneau de vendredi midi et la séance techniq
+ ue saute.
 LOCATION:Piscine municipale de Brumeval
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -108,9 +120,11 @@ DESCRIPTION:DISCIPLINE: renforcement\n- 1 série de montées sur pointes pa
  ière par côté\n- 1 planche latérale par côté\, temps noté\n---\nMol
  lets et hanches : là où la course à pied use en premier\, et ta chevill
  e gauche a un passé. Même logique que lundi : une série propre de chaqu
- e exercice\, comptée\, pour fixer le point de départ. Fait juste après 
- la natation\, avant la douche. Si un exercice fait mal\, il s'arrête et t
- u me le dis.
+ e exercice\, comptée\, pour fixer le point de départ. Montée sur pointe
+ s : debout sur une jambe\, genou tendu\, deux secondes pour monter\, trois
+  pour descendre. Fente arrière : tu recules un pied\, tu descends le geno
+ u arrière vers le sol\, tu remontes. Fait juste après la natation\, avan
+ t la douche. Si un exercice fait mal\, il s'arrête et tu me le dis.
 LOCATION:Piscine municipale de Brumeval\, bord du bassin
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -157,10 +171,12 @@ SUMMARY:🏊 Natation technique 700 m
 DESCRIPTION:DISCIPLINE: natation\nDISTANCE: 700 m\n- 200 m d'échauffement 
  souple\n- 6x50 m en comptant les cycles\, 20 s de repos\n- 200 m continus 
  en nage ample\n- 100 m de retour au calme\n---\nUne séance courte pour la
-  glisse\, la veille du repère vélo : elle ne charge pas les jambes. Le p
- iège est d'en faire une séance de séries. C'est réussi si tu comptes l
- e même nombre de cycles sur le sixième 50 m que sur le premier.\nRepli :
-  si le bassin est fermé\, repos.
+  glisse\, la veille du repère vélo : elle ne charge pas les jambes. La n
+ age ample\, ce sont des mouvements longs\, en glissant après chaque tract
+ ion\, pour faire moins de cycles par longueur. Le piège est d'en faire un
+ e séance de séries. C'est réussi si tu comptes le même nombre de cycle
+ s sur le sixième 50 m que sur le premier.\nRepli : si le bassin est ferm
+ é\, repos.
 LOCATION:Piscine municipale de Brumeval
 BEGIN:VALARM
 ACTION:DISPLAY

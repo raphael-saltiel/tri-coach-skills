@@ -55,7 +55,9 @@ Updated: <date>
 - Refusals:
 - Other sports:
 - Recovery signal and thresholds chosen by the athlete:
-- Feedback style:
+
+## Level of detail
+- <detailed, essential> (default for a first triathlon: detailed)
 
 ## Unknowns to resolve
 - <what>, <who finds it>, <how>

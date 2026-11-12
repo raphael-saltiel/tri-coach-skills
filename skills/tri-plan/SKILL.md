@@ -25,6 +25,15 @@ Turn the profile into a week-by-week frame up to the race: phases, hours, long s
 - If a file you need is missing, name it, name the skill that produces it, and offer to run that skill: `profile.md` tri-onboarding, `zones.md` tri-tests, `plan.md` and `plan.csv` tri-plan, `semaines/` tri-semaine, `journal.md` tri-bilan.
 <!-- /common:state-files -->
 
+<!-- common:detail -->
+## Level of detail
+
+- The profile stores the athlete's level of detail: "detailed" (the default for a beginner) or "essential". If it is missing, use "detailed" and say once that the short version is available on request.
+- **Detailed**: give the reason behind every number (where it comes from, what it is for) and explain each technical term in a few plain words. A file the athlete keeps (plan, zones, race day, fuelling) explains its own terms where they first appear. A recurring output (week file, debrief) explains a term only if it is not yet in `athlete/lexique.md`, then adds it there with its explanation.
+- **Essential**: numbers and decisions only. Explain on request.
+- At both levels: start with the conclusion, and keep the session instruction lines in their strict format. Detail goes below them, never into them. More detail never means more adjectives.
+<!-- /common:detail -->
+
 <!-- common:safety -->
 ## Safety limits
 
@@ -103,6 +112,11 @@ Details and the purpose of each phase: `references/phases.md`.
 5. **Test calendar** with expected values if `zones.md` has them, labelled "estimated" otherwise.
 6. **Intermediate races and rehearsal**.
 7. **Rules of the road**: the recovery week is a ceiling, a missed session is not made up, pain overrules the plan.
+
+At the "detailed" level, `plan.md` also carries, using the plain-words explanations of `references/phases.md`:
+- an opening section "How to read this plan": what a load week and a recovery week are, what the ramp is, what each column of the week table means,
+- a section "Why these numbers": why the plan starts at this volume, why it never rises faster, why the plateau is where it is, why the taper cuts the load,
+- for each phase, what it will feel like and what would be a warning sign.
 
 ## Rebuild the plan when
 

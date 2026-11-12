@@ -8,6 +8,14 @@ Première estimation, établie le 6 décembre 2026. À refaire après chaque ret
 - Barrières horaires : sortie de l'eau 1 h 00, fin du vélo 3 h 15, arrivée 4 h 30 (règlement lu par Camille le 10 novembre 2026).
 - À vérifier avant la course : température de l'eau et règle sur la combinaison, contenu des ravitaillements.
 
+## Comment lire cette estimation
+- **L'estimation** est un calcul de ta course à partir de ce que tu sais faire aujourd'hui, sur le vrai parcours. C'est un temps probable par temps calme, pas une promesse.
+- **Une barrière horaire** est une limite de temps fixée par l'organisateur à un point de la course. Si tu y passes après la limite, tu es arrêtée.
+- **La marge** est le temps entre ton passage estimé et la barrière. C'est ce qu'une crevaison, un vent de face ou un coup de moins bien peuvent manger.
+- **Un levier** est quelque chose que tu peux changer et qui raccourcit la course. Chacun est donné en minutes, pour voir lequel mérite ton temps d'entraînement.
+- **La dégradation à pied** est ce que tu perds en courant après le vélo par rapport à des jambes fraîches.
+- **Le poids n'est pas un levier.** Il entre dans le calcul comme la longueur du parcours : c'est une donnée. Les leviers proposés sont ceux que l'entraînement change : le moteur, la position, la natation.
+
 ## Estimation (estimée : l'allure de natation n'est pas encore mesurée)
 
 | Partie | Temps | D'où vient le chiffre |
@@ -47,9 +55,9 @@ Le moteur à vélo est le premier levier. Aucun des trois ne justifie de changer
 Finir. Un objectif chrono se décidera après le premier retest. Un objectif revu à la baisse n'est pas un échec de la préparation.
 
 ## Plan de course
-- Natation : départ sur le côté, 200 premiers mètres en nage ample, puis le rythme du test.
-- Vélo : pas de capteur de puissance sur ton vélo, donc un plafond de fréquence cardiaque, à fixer en phase spécifique dans la zone tempo. Dix premières minutes plus faciles que le plan. Dans la côte du km 12, tu tiens le plafond et tu acceptes la vitesse.
-- Course à pied : première minute en marchant vite, cinq minutes volontairement lentes, puis l'allure prévue. Marche aux ravitaillements si cela t'aide à boire.
+- Natation : départ sur le côté, pour nager dans une eau calme plutôt que dans la mêlée. 200 premiers mètres en nage ample, puis le rythme du test.
+- Vélo : pas de capteur de puissance sur ton vélo, donc un plafond de fréquence cardiaque, à fixer en phase spécifique dans la zone tempo. Dix premières minutes plus faciles que le plan : après la natation, les jambes mentent. Dans la côte du km 12, tu tiens le plafond et tu acceptes la vitesse.
+- Course à pied : première minute en marchant vite, cinq minutes volontairement lentes, parce que les jambes sortent du vélo avec l'impression d'aller lentement alors qu'elles vont trop vite, puis l'allure prévue. Marche aux ravitaillements si cela t'aide à boire.
 - Transitions : dans l'ordre répété lors de la répétition générale de la semaine 17.
 
 ## Alimentation

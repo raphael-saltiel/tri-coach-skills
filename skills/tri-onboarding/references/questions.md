@@ -62,4 +62,4 @@ Ask for height. Then: "Weight and bike weight are optional. They are only used t
 | Anything you refuse: gym, trainer, cold water? | A plan that ignores a refusal is not followed. |
 | Other sports you want to keep? | Counted in the week as easy load. |
 | How do you judge recovery: a device score, or how you feel in the morning? Do you have your own thresholds? | The recovery signal has three levels. The thresholds are the athlete's choice, not a norm. |
-| How do you want feedback: short and blunt, or detailed? | The default is short, direct, with numbers. |
+| Which level of detail: "detailed" (every term explained, the reason behind every number) or "essential" (numbers and decisions only)? | Read by every skill. "Detailed" is the default for a first triathlon. Either way the tone stays direct, with numbers. The athlete can switch at any time. |

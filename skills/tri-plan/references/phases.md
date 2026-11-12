@@ -12,6 +12,32 @@ Counted back from the race. The taper has a fixed length by format. The other fo
 | Peak | Largest weeks, at race rhythm. | Plateau volume, sessions at race effort, last retest. | The last load week is done without digging a hole. |
 | Taper | Let freshness rise without losing fitness. | Load cut sharply, short reminders of race effort, nothing new: no new shoes, food, position or session type. | Race day. |
 
+## Plain-words explanations (for the "detailed" level)
+
+Use these wordings, translated, so that the same term is always explained the same way.
+
+| Term | In plain words |
+|---|---|
+| Ramp | The planned rise of the weekly hours, from what you do today to what the race needs. |
+| Load week | A normal training week, a little bigger than the last one. |
+| Recovery week | A lighter week, about a third less, every fourth week. The body gets fitter while it recovers, not while it trains: this week is where the three before it pay off. |
+| Plateau | The weekly volume the plan climbs to and then holds. |
+| Phase | A block of weeks with one purpose. |
+| Long session | The longest ride and the longest run of the week. They build the endurance the race is made of. |
+| Brick | A run done straight after a ride, to get used to running on cycling legs. |
+| Test, retest | A measured effort that sets your zones. It is repeated every eight weeks or so to check that training works. |
+| Rehearsal | A practice race at shorter distances, with the kit, the food and the transitions of race day. |
+| Taper | The last two or three weeks: much less training, so that you start the race fresh. Fitness does not vanish in two weeks, fatigue does. |
+| Milestone | A dated event in the plan: a rehearsal, an intermediate race, the race. |
+
+Why the numbers are what they are:
+
+- **The start**: the plan begins at what you really did last week, because a body adapts from where it is, not from where you wish it were.
+- **+10 percent at most**: heart and lungs adapt in weeks, tendons and bones in months. Rising faster is how beginners get injured.
+- **Minus 35 percent every fourth week**: enough to recover, not enough to lose fitness.
+- **The plateau**: the smaller of what the race format needs and what your life allows. More is not better if it cannot be held.
+- **The taper**: the load drops sharply, the rhythm of the week stays.
+
 ## Load and recovery weeks
 
 Three load weeks, one recovery week. The recovery week is at 65 percent of the week before it, with no intensity except the test placed at its end. It is a ceiling: less is fine. Never a recovery week right before the taper: the script arranges the blocks so that the taper follows a load week.

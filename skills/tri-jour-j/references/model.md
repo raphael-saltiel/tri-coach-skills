@@ -50,6 +50,24 @@ Starting values of this pack for a beginner. They are conventions, to be replace
 - Levers ranked by time gained: bike power +20 W, the next better position, swim 10 s per 100 m faster. Weight is never listed.
 - Every assumption used, including what was estimated.
 
+## Plain-words explanations (for the "detailed" level)
+
+Use these wordings, translated, so that the same term is always explained the same way.
+
+| Term | In plain words |
+|---|---|
+| Estimate | A calculation of your race from what you can do today, on the real course. It is a likely time on a calm day, not a promise. |
+| Cut-off | A time limit set by the organiser at a point of the race. An athlete who reaches that point after the limit is stopped. |
+| Margin | The time between your estimated passage and the cut-off. It is what a puncture, a headwind or a bad patch can eat. |
+| Lever | Something you can change that makes the race shorter. Each one is given in minutes so that you can see which is worth your training time. |
+| Race power | The effort you plan to hold on the bike, as a share of your threshold. Lower for longer races. |
+| Position | Where your hands are on the bike. Lower and narrower means less air to push, so more speed for the same effort, if you can hold it. |
+| Reference ride | A recent ride of yours used to work out your bike effort when you have no power meter. |
+| Fade | How much slower you run after the bike than on fresh legs. |
+| Transition | The change from swim to bike (T1) and from bike to run (T2). The clock does not stop. |
+
+Why weight is not a lever: it is an input of the physics, like the length of the course. The levers offered are the ones training changes: the engine, the position and the swim.
+
 ## Limits to tell the athlete
 
 - It is a model. On a calm day, with honest inputs, expect the real bike time within several minutes of it on an olympic distance, more on longer races. Wind alone can move it by more than any lever.

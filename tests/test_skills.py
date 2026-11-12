@@ -12,15 +12,15 @@ LINKED = re.compile(r"\b((?:references|scripts)/[A-Za-z0-9_.-]+\.(?:md|py))")
 
 # Which shared rule blocks each skill must carry, word for word.
 REQUIRED = {
-    "tri-onboarding": {"tone", "state-files", "safety"},
-    "tri-tests": {"tone", "state-files", "safety", "open-water", "session-format"},
-    "tri-plan": {"tone", "state-files", "safety"},
-    "tri-semaine": {"tone", "state-files", "safety", "open-water", "session-format"},
-    "tri-bilan": {"tone", "state-files", "safety"},
-    "tri-renfo": {"tone", "state-files", "safety", "session-format"},
-    "tri-nutrition": {"tone", "state-files", "safety", "safety-nutrition"},
-    "tri-jour-j": {"tone", "state-files", "safety", "safety-nutrition", "open-water"},
-    "tri-connect": {"tone", "state-files"},
+    "tri-onboarding": {"tone", "state-files", "detail", "safety"},
+    "tri-tests": {"tone", "state-files", "detail", "safety", "open-water", "session-format"},
+    "tri-plan": {"tone", "state-files", "detail", "safety"},
+    "tri-semaine": {"tone", "state-files", "detail", "safety", "open-water", "session-format"},
+    "tri-bilan": {"tone", "state-files", "detail", "safety"},
+    "tri-renfo": {"tone", "state-files", "detail", "safety", "session-format"},
+    "tri-nutrition": {"tone", "state-files", "detail", "safety", "safety-nutrition"},
+    "tri-jour-j": {"tone", "state-files", "detail", "safety", "safety-nutrition", "open-water"},
+    "tri-connect": {"tone", "state-files", "detail"},
     "tri-guide": {"tone", "open-water"},
 }
 

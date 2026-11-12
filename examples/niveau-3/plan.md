@@ -9,18 +9,36 @@
 - Rythme : +10 % au plus entre deux semaines de charge, trois semaines de charge puis une décharge à -35 %.
 - Total : 139 h sur 23 semaines.
 
+## Comment lire ce plan
+- **La rampe** est la montée prévue de tes heures par semaine, de ce que tu fais aujourd'hui à ce que la course demande.
+- **Une semaine de charge** est une semaine normale, un peu plus grosse que la précédente.
+- **Une semaine de décharge** est une semaine allégée d'un tiers, toutes les quatre semaines. Le corps progresse pendant qu'il récupère, pas pendant qu'il s'entraîne : c'est dans cette semaine que les trois précédentes rapportent.
+- **Le plateau** est le volume hebdomadaire auquel le plan monte, puis qu'il tient.
+- **Une phase** est un bloc de semaines qui a un seul but.
+- **La sortie longue** et **la longue course** sont les deux plus longues séances de la semaine. Elles construisent l'endurance dont la course est faite.
+- **Un enchaînement** est une course à pied faite tout de suite après le vélo, pour s'habituer à courir avec des jambes de cycliste.
+- **Un test** est un effort mesuré qui fixe tes zones. On le refait toutes les huit semaines environ pour vérifier que l'entraînement fonctionne.
+- **L'affûtage** désigne les deux dernières semaines : beaucoup moins d'entraînement, pour arriver fraîche au départ. La forme ne disparaît pas en deux semaines, la fatigue si.
+
+## Pourquoi ces chiffres
+- **4 h 30 au départ** : c'est ce que tu as réellement fait la semaine du 2 au 8 novembre. Un corps s'adapte à partir de là où il est, pas de là où on voudrait qu'il soit.
+- **+10 % au plus** : le cœur et le souffle s'adaptent en quelques semaines, les tendons et les os en plusieurs mois. Monter plus vite, c'est le chemin habituel vers la blessure du débutant.
+- **-35 % toutes les quatre semaines** : assez pour récupérer, pas assez pour perdre.
+- **8 h de plateau** : le plus petit de ce que le format M demande et de ce que ta semaine permet. Ici les deux valent 8 h.
+- **Affûtage à 4 h 25 puis 2 h 25** : la charge baisse fort, le rythme de la semaine reste le même.
+
 ## Avertissement
 - Le plateau de 8 h est atteint en semaine 14, après la phase de développement. Tu auras moins de semaines à plein volume que ce que le format demande. C'est acceptable : la phase spécifique démarre un peu plus légère. On ne monte pas plus vite pour autant.
 
 ## Phases
 
-| Phase | Semaines | Dates | À quoi elle sert | Réussie si |
-|---|---|---|---|---|
-| Base | 1 à 6 | 16 nov. au 27 déc. | Construire le volume et l'habitude. Technique de nage, premiers tests. | Tu tiens les semaines sans sauter de séance et sans douleur. |
-| Développement | 7 à 11 | 28 déc. au 31 janv. | Monter les seuils et le volume. | Tu arrives à 7 h 40 sans casse. |
-| Spécifique | 12 à 17 | 1 févr. au 14 mars | S'entraîner pour la course : enchaînements chaque semaine de charge, parcours vallonné, premières nages en lac (jamais seule). | La répétition générale est faite. |
-| Pic | 18 à 21 | 15 mars au 11 avr. | Les plus grosses semaines, au rythme de course. | La dernière semaine de charge passe sans creuser de trou. |
-| Affûtage | 22 et 23 | 12 au 25 avr. | Retrouver de la fraîcheur. Rien de nouveau. | Tu es au départ reposée. |
+| Phase | Semaines | Dates | À quoi elle sert | Ce que tu vas ressentir | Signal d'alerte | Réussie si |
+|---|---|---|---|---|---|---|
+| Base | 1 à 6 | 16 nov. au 27 déc. | Construire le volume et l'habitude. Technique de nage, premiers tests. | Des séances presque trop faciles. C'est voulu. | Une douleur qui revient deux séances de suite. | Tu tiens les semaines sans sauter de séance et sans douleur. |
+| Développement | 7 à 11 | 28 déc. au 31 janv. | Monter les seuils et le volume. | Une fatigue normale en fin de semaine de charge, effacée par la décharge. | Une fatigue qui ne part pas après la décharge. | Tu arrives à 7 h 40 sans casse. |
+| Spécifique | 12 à 17 | 1 févr. au 14 mars | S'entraîner pour la course : enchaînements chaque semaine de charge, parcours vallonné, premières nages en lac (jamais seule). | Des jambes lourdes au début de chaque course après le vélo. Ça s'apprend. | Deux semaines de suite sous 85 % des heures. | La répétition générale est faite. |
+| Pic | 18 à 21 | 15 mars au 11 avr. | Les plus grosses semaines, au rythme de course. | Les semaines les plus dures du plan. | L'envie d'en rajouter : c'est là qu'on se blesse. | La dernière semaine de charge passe sans creuser de trou. |
+| Affûtage | 22 et 23 | 12 au 25 avr. | Retrouver de la fraîcheur. Rien de nouveau. | De l'impatience, parfois des jambes bizarres. C'est normal. | Une séance ajoutée "pour se rassurer". | Tu es au départ reposée. |
 
 ## Semaines
 

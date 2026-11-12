@@ -1,6 +1,6 @@
 # Examples
 
-One fictional athlete, Camille, preparing a fictional olympic-distance race, played through the skills at two equipment levels. Every name, place and number is invented. The files are in French because the skills write in the athlete's language.
+One fictional athlete, Camille, preparing a fictional olympic-distance race, played through the skills at two equipment levels. Every name, place and number is invented. The files are in French because the skills write in the athlete's language. Camille is a beginner, so her profile is at the "detailed" level: terms are explained and every number comes with its reason. `niveau-3/bilan.md` ends with the same debrief at the "essential" level, for comparison.
 
 | Folder | Equipment | What it shows |
 |---|---|---|
@@ -18,5 +18,6 @@ In each folder:
 | `journal.md`, and `bilan.md` (one debrief written out in full) | tri-bilan |
 | `nutrition.md` | tri-nutrition |
 | `jour-j.md`, `jour-j.json` | tri-jour-j |
+| `lexique.md` | every skill: the terms already explained to the athlete |
 
 `plan.csv`, the `.ics` files and `jour-j.json` are the exact output of the scripts: `tests/test_examples.py` regenerates them and compares.
