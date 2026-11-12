@@ -15,6 +15,32 @@ DESCRIPTION:DISCIPLINE: repos\n---\nSemaine 3\, charge\, 5 h 20 prévues. D
  blocs au seuil de mardi et le premier enchaînement de samedi.
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-S49-7@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261130T190000
+DTEND:20261130T191200
+SUMMARY:🧘 Gainage 12 min
+DESCRIPTION:DISCIPLINE: gainage\n- 3x45 s de planche\, 30 s de repos\n- 3x3
+ 0 s de planche latérale par côté\n- 3x12 ponts fessiers sur une jambe p
+ ar côté\n- 3x30 s de superman\n---\nLe gainage tient le bassin quand la 
+ fatigue arrive\, à vélo comme à pied. Tu es à 45 secondes de planche p
+ ropre\, la cible est 60 : on ajoute 5 secondes par semaine de charge\, pas
+  plus. Le piège est de tenir en laissant le bassin descendre. C'est réus
+ si si la dernière seconde ressemble à la première. Accroché au lundi s
+ oir\, jour de repos : c'est ce qui évite qu'il saute.
+LOCATION:Domicile\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Gainage 12 min
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Gainage 12 min
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-S49-1@tri-coach-skills
 DTSTAMP:20261125T190000Z
 DTSTART:20261201T184500
@@ -65,6 +91,32 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🏊 Natation 5x100 m souples
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S49-8@tri-coach-skills
+DTSTAMP:20261125T190000Z
+DTSTART:20261202T195000
+DTEND:20261202T201000
+SUMMARY:🧘 Renfo préventif 20 min
+DESCRIPTION:DISCIPLINE: renforcement\n- 3x12 montées sur pointes par jambe
+ \n- 3x10 ponts fessiers sur une jambe par côté\n- 3x8 fentes arrière pa
+ r côté\n- 3x30 s de planche latérale par côté\n---\nMollets et hanche
+ s : là où la course à pied use en premier\, et ta cheville gauche a un 
+ passé. Fait juste après la natation\, avant la douche\, les jambes sont 
+ fraîches. Le piège est de bâcler la descente des montées sur pointes :
+  deux secondes pour monter\, trois pour descendre. Si un exercice fait mal
+ \, il s'arrête et tu me le dis.
+LOCATION:Piscine municipale de Brumeval\, bord du bassin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Renfo préventif 20 min
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Renfo préventif 20 min
 TRIGGER:-PT45M
 END:VALARM
 END:VEVENT
@@ -127,17 +179,18 @@ DTSTART:20261205T090000
 DTEND:20261205T111000
 SUMMARY:🚴 Sortie longue 2 h + 10 min à pied
 DESCRIPTION:DISCIPLINE: vélo\nDISTANCE: 45 km à vélo\, 1\,5 km à pied\n
- - 10 min de mise en route très souple\n- 100 min sous 142 bpm\, environ 3
- 8 km\n- 10 min en moulinant pour finir\n- 10 min de course\, 1re minute en
-  marchant vite\n---\nLa sortie longue construit l'endurance du vélo\, et 
- les 10 minutes à pied t'apprennent à courir avec des jambes de cycliste.
-  Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardiaqu
- e qui pilote\, avec un plafond à 142 et pas de plancher. Le piège est de
-  partir trop vite à pied : première minute en marchant vite\, puis cinq 
- minutes volontairement lentes quelle que soit la sensation. C'est réussi 
- si tu finis en ayant pu parler tout le long.\nRepli : si la route est impr
- aticable\, 1 h 45 de home-trainer entre 110 et 146 W\, puis les 10 min de 
- course.
+ - 10 min de mise en route très souple\n- 100 min sous 142 bpm\, 1 gel à 
+ 45 min\n- 10 min en moulinant pour finir\n- 10 min de course\, 1re minute 
+ en marchant vite\n---\nLa sortie longue construit l'endurance du vélo\, e
+ t les 10 minutes à pied t'apprennent à courir avec des jambes de cyclist
+ e. Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardia
+ que qui pilote\, avec un plafond à 142 et pas de plancher. Premier pas d'
+ entraînement de l'estomac : un gel à 45 minutes\, avec de l'eau\, et tu 
+ notes comment il passe. Le piège est de partir trop vite à pied : premi
+ ère minute en marchant vite\, puis cinq minutes volontairement lentes que
+ lle que soit la sensation. C'est réussi si tu finis en ayant pu parler to
+ ut le long.\nRepli : si la route est impraticable\, 1 h 45 de home-trainer
+  entre 110 et 146 W\, puis les 10 min de course.
 LOCATION:Départ du domicile\, boucle des étangs
 BEGIN:VALARM
 ACTION:DISPLAY

@@ -14,6 +14,23 @@
       "why": "Semaine 3, charge, 5 h 20 prévues. Dernière semaine du premier bloc avant la décharge. Séances clés : les blocs au seuil de mardi et le premier enchaînement de samedi."
     },
     {
+      "id": "2026-S49-7",
+      "date": "2026-11-30",
+      "time": "19:00",
+      "duration_min": 12,
+      "discipline": "strength",
+      "discipline_label": "gainage",
+      "title": "Gainage 12 min",
+      "location": "Domicile, Brumeval",
+      "lines": [
+        "3x45 s de planche, 30 s de repos",
+        "3x30 s de planche latérale par côté",
+        "3x12 ponts fessiers sur une jambe par côté",
+        "3x30 s de superman"
+      ],
+      "why": "Le gainage tient le bassin quand la fatigue arrive, à vélo comme à pied. Tu es à 45 secondes de planche propre, la cible est 60 : on ajoute 5 secondes par semaine de charge, pas plus. Le piège est de tenir en laissant le bassin descendre. C'est réussi si la dernière seconde ressemble à la première. Accroché au lundi soir, jour de repos : c'est ce qui évite qu'il saute."
+    },
+    {
       "id": "2026-S49-1",
       "date": "2026-12-01",
       "time": "18:45",
@@ -49,6 +66,23 @@
       ],
       "why": "Tu ne nages que 400 m d'une traite : cette séance allonge la distance utile sans forcer. Le piège est de nager les 100 m plus vite que 2'45, ce qui fait monter le nombre de cycles. C'est réussi si le cinquième 100 m a le même temps et le même nombre de cycles que le premier.",
       "fallback": "Repli : si le bassin est fermé, cette séance prend le créneau de vendredi midi et la séance technique saute."
+    },
+    {
+      "id": "2026-S49-8",
+      "date": "2026-12-02",
+      "time": "19:50",
+      "duration_min": 20,
+      "discipline": "strength",
+      "discipline_label": "renforcement",
+      "title": "Renfo préventif 20 min",
+      "location": "Piscine municipale de Brumeval, bord du bassin",
+      "lines": [
+        "3x12 montées sur pointes par jambe",
+        "3x10 ponts fessiers sur une jambe par côté",
+        "3x8 fentes arrière par côté",
+        "3x30 s de planche latérale par côté"
+      ],
+      "why": "Mollets et hanches : là où la course à pied use en premier, et ta cheville gauche a un passé. Fait juste après la natation, avant la douche, les jambes sont fraîches. Le piège est de bâcler la descente des montées sur pointes : deux secondes pour monter, trois pour descendre. Si un exercice fait mal, il s'arrête et tu me le dis."
     },
     {
       "id": "2026-S49-3",
@@ -99,11 +133,11 @@
       "distance": "45 km à vélo, 1,5 km à pied",
       "lines": [
         "10 min de mise en route très souple",
-        "100 min sous 142 bpm, environ 38 km",
+        "100 min sous 142 bpm, 1 gel à 45 min",
         "10 min en moulinant pour finir",
         "10 min de course, 1re minute en marchant vite"
       ],
-      "why": "La sortie longue construit l'endurance du vélo, et les 10 minutes à pied t'apprennent à courir avec des jambes de cycliste. Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardiaque qui pilote, avec un plafond à 142 et pas de plancher. Le piège est de partir trop vite à pied : première minute en marchant vite, puis cinq minutes volontairement lentes quelle que soit la sensation. C'est réussi si tu finis en ayant pu parler tout le long.",
+      "why": "La sortie longue construit l'endurance du vélo, et les 10 minutes à pied t'apprennent à courir avec des jambes de cycliste. Dehors tu n'as pas de capteur de puissance : c'est la fréquence cardiaque qui pilote, avec un plafond à 142 et pas de plancher. Premier pas d'entraînement de l'estomac : un gel à 45 minutes, avec de l'eau, et tu notes comment il passe. Le piège est de partir trop vite à pied : première minute en marchant vite, puis cinq minutes volontairement lentes quelle que soit la sensation. C'est réussi si tu finis en ayant pu parler tout le long.",
       "fallback": "Repli : si la route est impraticable, 1 h 45 de home-trainer entre 110 et 146 W, puis les 10 min de course."
     },
     {

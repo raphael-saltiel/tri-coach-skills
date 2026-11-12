@@ -17,6 +17,33 @@ DESCRIPTION:DISCIPLINE: repos\n---\nSemaine 1\, charge\, 4 h 30 prévues :
  père de course vient la semaine prochaine.
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-S47-7@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261116T190000
+DTEND:20261116T191200
+SUMMARY:🧘 Gainage : repérage du niveau
+DESCRIPTION:DISCIPLINE: gainage\n- 1 planche tenue proprement\, temps noté
+ \n- 1 planche latérale par côté\, temps noté\n- 1 série de ponts fess
+ iers par côté\, comptée\n- 1 superman tenu proprement\, temps noté\n--
+ -\nPremière séance : on cherche ton point de départ\, pas une performan
+ ce. Chaque exercice est tenu jusqu'à ce que la forme se dégrade\, pas ju
+ squ'à l'épuisement\, et tu notes le temps ou le nombre. La routine déma
+ rrera à ce niveau et montera de 5 secondes ou 2 répétitions par semaine
+  de charge. Le piège est de tenir en trichant sur la position. Accroché 
+ au lundi soir\, jour de repos.
+LOCATION:Domicile\, Brumeval
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Gainage : repérage du niveau
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Gainage : repérage du niveau
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-S47-1@tri-coach-skills
 DTSTAMP:20261111T190000Z
 DTSTART:20261117T184500
@@ -67,6 +94,32 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:🏊 Natation repère 4x100 m souples
+TRIGGER:-PT45M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-S47-8@tri-coach-skills
+DTSTAMP:20261111T190000Z
+DTSTART:20261118T195000
+DTEND:20261118T201000
+SUMMARY:🧘 Renfo préventif : repérage
+DESCRIPTION:DISCIPLINE: renforcement\n- 1 série de montées sur pointes pa
+ r jambe\n- 1 série de ponts fessiers par côté\n- 1 série de fentes arr
+ ière par côté\n- 1 planche latérale par côté\, temps noté\n---\nMol
+ lets et hanches : là où la course à pied use en premier\, et ta chevill
+ e gauche a un passé. Même logique que lundi : une série propre de chaqu
+ e exercice\, comptée\, pour fixer le point de départ. Fait juste après 
+ la natation\, avant la douche. Si un exercice fait mal\, il s'arrête et t
+ u me le dis.
+LOCATION:Piscine municipale de Brumeval\, bord du bassin
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Renfo préventif : repérage
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🧘 Renfo préventif : repérage
 TRIGGER:-PT45M
 END:VALARM
 END:VEVENT
